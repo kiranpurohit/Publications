@@ -1,4 +1,4 @@
-#### This repository contains the following files for the paper accepted at ASPCON 2020 ''Measuring the Degree of Suitability of Edge Detection Operators Prior to an Application'' :
+#### This repository contains the following files for the paper accepted at ASPCON 2020 *''Measuring the Degree of Suitability of Edge Detection Operators Prior to an Application''* :
 
 1. Paper
 
