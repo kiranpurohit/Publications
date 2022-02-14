@@ -6,4 +6,4 @@
 
 3. Presentation recording : 
 
-4. Teaser video: 
+4. Teaser video:  https://www.youtube.com/watch?v=MLx_ZNl0rvs
