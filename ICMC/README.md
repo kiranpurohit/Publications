@@ -1,4 +1,4 @@
-This repository contains the following files for the paper accepted at ICCV 2021 ''TMCOSS: Thresholded Multi-Criteria Online Subset Selection for Data-Efficient Autonomous Driving'' :
+This repository contains the following files for the paper accepted at ICMC 2021 ''COVID-19 Detection on Chest X-Ray and CT Scan Images Using Multi-image Augmented Deep Learning Model'' :
 
 1. Paper
 
