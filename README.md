@@ -6,6 +6,14 @@
 
 ## Academic Identity
 
+
+<li class="notification"> <img src="https://github.com/kiranpurohit/Publications/blob/main/Images/orcid.png">
+<div class="overflow-h">
+     <span><strong>Orcid Id</strong></span>
+     <span id="i_orcid_id"><small><a target="_blank" href="https://orcid.org/0000-0002-5512-3441">0000-0002-5512-3441</a></small> </span>
+</div>
+</li>
+
 <img src="https://github.com/kiranpurohit/Publications/blob/main/Images/orcid.png" width="20">  **Orchid Id:** [0000-0002-5512-3441](https://orcid.org/0000-0002-5512-3441)
 
 <img src="https://github.com/kiranpurohit/Publications/blob/main/Images/scopus.png" width="20"> **Scopus Id:** [57221319759](https://www.scopus.com/authid/detail.uri?authorId=57221319759)
