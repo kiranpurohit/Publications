@@ -10,7 +10,7 @@
 
 * Scopus Id: 57221319759
 
-* Researcher Id 4013248
+* Researcher Id: 4013248
 
 * Google Scholar Id: KvaPPWAAAAAJ
 
