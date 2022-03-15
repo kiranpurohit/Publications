@@ -8,7 +8,7 @@
 
 <div id="identity-view">
      <ul data-mcs-theme="minimal-dark" class="list-unstyled margin-bottom-20" id="customscropll">
-<li class="notification"> <img src="https://github.com/kiranpurohit/Publications/blob/main/Images/orcid.png">
+<li class="notification"> <img src="https://github.com/kiranpurohit/Publications/blob/main/Images/orcid.png" width="20">
 <div class="overflow-h">
      <span><strong>Orcid Id</strong></span>
      <span id="i_orcid_id"><small><a target="_blank" href="https://orcid.org/0000-0002-5512-3441">0000-0002-5512-3441</a></small> </span>
