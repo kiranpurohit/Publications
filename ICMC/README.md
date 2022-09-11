@@ -2,8 +2,8 @@
 
 1. Paper: https://doi.org/10.1007/978-981-16-6890-6_30
 
-2. Presentation slides
+2. Presentation slides: https://github.com/kiranpurohit/Publications/blob/main/ICMC/ICMC_presentation_slides.pdf
 
-3. Presentation recording : 
+3. Presentation recording: 
 
 4. Teaser video:  https://www.youtube.com/watch?v=MLx_ZNl0rvs
