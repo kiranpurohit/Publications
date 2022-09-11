@@ -2,8 +2,8 @@
 
 1. Paper: http://doi.org/10.1109/ASPCON49795.2020.9276678
 
-2. Presentation slides
+2. Presentation slides: https://github.com/kiranpurohit/Publications/blob/main/ASPCON/ASPCON_presentation_slides.pdf
 
-3. Presentation recording : 
+3. Presentation recording: 
 
 4. Teaser video: 
