@@ -4,7 +4,7 @@
 
 2. Presentation slides: 
 
-3. Presentation recording: 
+3. Presentation recording: https://www.youtube.com/watch?v=0eGsSglQIrI
 
 4. Teaser video: 
 
