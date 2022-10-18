@@ -2,7 +2,7 @@
 
 1. Paper: https://github.com/kiranpurohit/Publications/blob/main/AIMLSystems/AIML_paper.pdf
 
-2. Presentation slides: 
+2. Presentation slides: https://github.com/kiranpurohit/Publications/blob/main/AIMLSystems/AIML_presentation_slides.pdf
 
 3. Presentation recording: https://www.youtube.com/watch?v=0eGsSglQIrI
 
