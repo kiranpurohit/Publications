@@ -1,10 +1,16 @@
 ## Publications
 
-1. AIMLSystems 2022
+1. EMNLP (mains) 2024
 
-2. ICMC 2021
+2. TMLR 2024
 
-3. ASPCON 2020
+3. ECAI 2024
+
+4. AIMLSystems 2022
+
+5. ICMC 2021
+
+6. ASPCON 2020
 
 ## Academic Identity
 
